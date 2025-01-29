@@ -1,0 +1,8 @@
+environment: "staging"
+
+database:
+  host: "127.0.0.1"
+  user: "admin"
+  pass: "Uranium tiger92!"
+  port: 8806
+
